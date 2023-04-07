@@ -1,0 +1,2 @@
+# xray-only
+autoscript xray
