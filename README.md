@@ -1,5 +1,4 @@
 # xray-only
-autoscript xray
 
 installasi autoscript Xray Only
 ```
